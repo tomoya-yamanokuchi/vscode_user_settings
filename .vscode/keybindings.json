@@ -1,0 +1,7 @@
+[
+    {
+        "key"    : "ctrl+shift+[Quote]",
+        "command": "wwm.aligncode",
+        "when"   : "editorTextFocus && !editorReadonly"
+    }
+]
